@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+
+span {
+    width: 0;
+    height: 0;
+}
+
+#nav1 {
+    height: 40px;
+    /* background-color: rgb(3, 35, 36); */
+}
+
+#nav1_cont_1 {
+    height: 100%;
+    width: 20%;
+    /* background-color: blue; */
+    display: inline-flex;
+    margin-left: 184px;
+}
+
+
+#nav1_cont_1_img {
+    padding: 0;
+    width: 25%;
+    height: 55px;
+    position: relative;
+    top: -8px;
+}
+
+#nav1_cont_1_logo {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    /* padding-top: 4px; */
+    /* padding-right: 4px; */
+    /* padding-bottom: 4px; */
+}
+
+#nav1_cont_1_logoW {
+    padding-top: 0;
+    padding-right: 4px;
+    padding-bottom: 0px;
+    margin: 0;
+    /* background-color: beige; */
+    /* height: 72%; */
+    /* text-align: center; */
+    font-size: 34px;
+    /* word-spacing: 30px; */
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    /* font-weight: 900; */
+}
+
+
+/* nav1 parent2 sytling */
+
+#nav1_cont_2 {
+    height: 100%;
+    width: 23%;
+    /* background-color: greenyellow; */
+    display: inline-flex;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 184px;
+
+}
+
+#nav1_cont_2_log {
+     color: #5f6368;
+}
+
+#nav1_cont_1_log_h {
+    margin: 0;
+    /* background-color: yellow; */
+    padding: 13px;
+    font-size: 14px;
+    text-transform: uppercase;
+    word-spacing: 3px;
+    letter-spacing: 1.4px;
+
+}
+
+#nav1_cont_2_Strt {
+    color: white;
+}
+
+#nav1_cont_2_Strt_h {
+    margin: 0;
+    padding-left: 13px;
+    padding-top: 10px;
+    padding-right: 13px;
+    padding-bottom: 10px;
+    background-color: rgb(75, 191, 195);
+    /* border: 1px solid; */
+    border-radius: 24px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    word-spacing: 3px;
+
+}
+
+
+/* end of nav 1 */
+
+
+#nav2 {
+    background-color: crimson;
+    height: 40px;
+    margin-top: 8px;
+    text-align: -webkit-center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#nav2_para {
+    /* background-color: darkblue; */
+    min-width: 452px;
+    height: 100%;
+    display: inline-table;
+    font-size: 19px;
+    padding-top: 4.5px;
+}
+
+/* #nav2_para_sen {
+    margin: 0;
+    position: relative;
+    top: 5px;
+    right: 5px;
+} */
+
+.span_c {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.span_s {
+    font-size: 14px;
+    /* letter-spacing: 0px; */
+    word-spacing: 5px;
+}
+
+/* end of nav2 */
+
+/* next part is in style2.css */
+
+
